@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Aryan Gupta</title>
-        <link>https://heisinbug.tech/posts/</link>
+        <link>https://heisinbug.github.io/posts/</link>
         <description>Recent content in Posts on Aryan Gupta</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sun, 19 Sep 2021 21:38:28 +0800</lastBuildDate>
-        <atom:link href="https://heisinbug.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://heisinbug.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Git - Tips and Tricks [PART 1]</title>
-            <link>https://heisinbug.tech/posts/2021/09/git-tips-and-tricks-part-1/</link>
+            <link>https://heisinbug.github.io/posts/2021/09/git-tips-and-tricks-part-1/</link>
             <pubDate>Sun, 19 Sep 2021 21:38:28 +0800</pubDate>
             
-            <guid>https://heisinbug.tech/posts/2021/09/git-tips-and-tricks-part-1/</guid>
+            <guid>https://heisinbug.github.io/posts/2021/09/git-tips-and-tricks-part-1/</guid>
             <description>Introduction Git is a very useful utility. There are alot of ways to do one particular thing. This post is made to share what I know and use in git. Bear in mind, I won&amp;rsquo;t be touching the basics as if you&amp;rsquo;re reading this post, I assume that you know the basics of git.
 Making commits It is wise for one to make proper commit history for their project. A proper commit history provides clarity onto what is the progress of the project while makes it easier to find bugs if any.</description>
             <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
@@ -111,10 +111,10 @@ Making commits It is wise for one to make proper commit history for their projec
         
         <item>
             <title>In the making: SpamProtection-rs</title>
-            <link>https://heisinbug.tech/posts/2021/09/in-the-making-spamprotection-rs/</link>
+            <link>https://heisinbug.github.io/posts/2021/09/in-the-making-spamprotection-rs/</link>
             <pubDate>Fri, 17 Sep 2021 14:36:09 +0800</pubDate>
             
-            <guid>https://heisinbug.tech/posts/2021/09/in-the-making-spamprotection-rs/</guid>
+            <guid>https://heisinbug.github.io/posts/2021/09/in-the-making-spamprotection-rs/</guid>
             <description>It all started 3 months ago when Intellivoid released their Go wrapper for the SpamProtection API. Since I&amp;rsquo;m a Rustacean, I intended to make a Rust wrapper for the SpamProtection API. I knew for a fact that this wasn&amp;rsquo;t a one-man job, So I pinged Pero regarding this and he was interested in it too.
 Then, Intellivoid server faced a data corruption in which all their services went down for about 2 months.</description>
             <content type="html"><![CDATA[<p>It all started 3 months ago when <a href="https://github.com/intellivoid">Intellivoid</a> released their Go wrapper for the <a href="https://github.com/intellivoid/intellivoid.spamprotection-go">SpamProtection API</a>. Since I&rsquo;m a Rustacean, I intended to make a Rust wrapper for the SpamProtection API. I knew for a fact that this wasn&rsquo;t a one-man job, So I pinged <a href="https://github.com/perosar">Pero</a> regarding this and he was interested in it too.</p>
@@ -127,10 +127,10 @@ Then, Intellivoid server faced a data corruption in which all their services wen
         
         <item>
             <title>How to Rebase a Kernel</title>
-            <link>https://heisinbug.tech/posts/2021/09/how-to-rebase-a-kernel/</link>
+            <link>https://heisinbug.github.io/posts/2021/09/how-to-rebase-a-kernel/</link>
             <pubDate>Mon, 06 Sep 2021 02:50:39 +0800</pubDate>
             
-            <guid>https://heisinbug.tech/posts/2021/09/how-to-rebase-a-kernel/</guid>
+            <guid>https://heisinbug.github.io/posts/2021/09/how-to-rebase-a-kernel/</guid>
             <description>Introduction Well, I was feeling bored so I was chatting with a dude called Anurag in a group called DEs/WMs regarding android kernels then he told me how his kernel was underperforming even after ricing it alot. I suggested him to rebase his kernel and he said he was unclear about the mentioned topic, so I wrote a long message onto how one can rebase a kernel and I thought that I should write it as a post in my site.</description>
             <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Well, I was feeling bored so I was chatting with a dude called <a href="https://t.me/anuragroy">Anurag</a> in a group called <a href="https://t.me/de_wm">DEs/WMs</a> regarding android kernels then he told me how his kernel was underperforming even after ricing it alot. I suggested him to rebase his kernel and he said he was unclear about the mentioned topic, so I wrote a long message onto how one can rebase a kernel and I thought that I should write it as a post in my site. So here I am writing this small guide at 04:30 in the morning.</p>
@@ -183,10 +183,10 @@ index 4c3b137a7000..d588668d76a8 100644
         
         <item>
             <title>My First Post</title>
-            <link>https://heisinbug.tech/posts/2021/09/my-first-post/</link>
+            <link>https://heisinbug.github.io/posts/2021/09/my-first-post/</link>
             <pubDate>Fri, 03 Sep 2021 01:22:03 +0800</pubDate>
             
-            <guid>https://heisinbug.tech/posts/2021/09/my-first-post/</guid>
+            <guid>https://heisinbug.github.io/posts/2021/09/my-first-post/</guid>
             <description>Hiya Welcome to my first post This site was generated using Hugo.</description>
             <content type="html"><![CDATA[<h1 id="hiya">Hiya</h1>
 <h3 id="welcome-to-my-first-post">Welcome to my first post</h3>
